@@ -12,7 +12,7 @@ __The Project Consists of 4 Modules :__<br/>
 - LCD Module<br/>
 
 **1. Emulation handler :**<br/>
-- Implements the I/O Functions from the library and use them to connect with a keypad and an LCD module.<br/><br/>
+- Implements the I/O Functions from the library and use them to connect with a keypad and an LCD module.<br/>
 - Frontend for users to interact with the emulator.<br/>
 
 **2. Keypad :**<br/>
