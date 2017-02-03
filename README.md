@@ -14,7 +14,7 @@ __The Project Consists of 4 Modules :__<br/>
 - Memory Module<br/>
 - keypad Module<br/>
 - LCD Module<br/>
-<br/>
+
 __Hardware :__<br/>
 
 - SD Card<br/>
