@@ -1,4 +1,4 @@
-# Z80-Arduino-System
+# Z80 Arduino System
 
 Emulated System implementing ArduZ80 Library
 
@@ -22,7 +22,8 @@ __Hardware :__<br/>
 - 16x2 LCD<br/>
 - Arduino Mega<br/>
 
-<br/>
+# Description
+
 **1. Emulation handler :**<br/>
 - Implements the I/O Functions from the library and use them to connect with a keypad and an LCD module.<br/>
 - Frontend for users to interact with the emulator.<br/>
