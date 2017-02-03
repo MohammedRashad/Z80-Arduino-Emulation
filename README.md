@@ -2,6 +2,10 @@
 
 Emulated System implementing ArduZ80 Library
 
+# Introduction
+Project that makes use of the ArduZ80 Library, and using some hardware blocks to emulate hardware of a generic computer
+system consisting of input device, output device and memory module and making a front end for the user to interact with the system.
+
 # Structure
 
 __The Project Consists of 4 Modules :__<br/>
@@ -10,7 +14,15 @@ __The Project Consists of 4 Modules :__<br/>
 - Memory Module<br/>
 - keypad Module<br/>
 - LCD Module<br/>
+<br/>
+__Hardware :__<br/>
 
+- SD Card<br/>
+- 4x4 Keypad<br/>
+- 16x2 LCD<br/>
+- Arduino Mega<br/>
+
+<br/>
 **1. Emulation handler :**<br/>
 - Implements the I/O Functions from the library and use them to connect with a keypad and an LCD module.<br/>
 - Frontend for users to interact with the emulator.<br/>
