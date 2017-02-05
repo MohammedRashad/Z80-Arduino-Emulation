@@ -1,6 +1,6 @@
 # Z80 Arduino System
 
-Emulated System implementing ArduZ80 Library
+Emulated System implementing [ArduZ80 Library](https://github.com/MohammedRashad/ArduZ80)
 
 # Introduction
 Project that makes use of the ArduZ80 Library, and using some hardware blocks to emulate hardware of a generic computer
@@ -36,3 +36,7 @@ __Hardware :__<br/>
 
 **2. Memory :**<br/>
 - Simulates the ROM to the microprocessor, also serves as a data logger module for the debug mode.<br/>
+
+# License 
+
+This library is signed under MIT License, Reproduce under it's terms.
