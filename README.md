@@ -34,7 +34,7 @@ __Hardware :__<br/>
 **3. LCD Module :**<br/>
 - Contains the interface to the Emulation handler (Frontend) and acts as the output in I/O.<br/>
 
-**2. Memory :**<br/>
+**4. Memory :**<br/>
 - Simulates the ROM to the microprocessor, also serves as a data logger module for the debug mode.<br/>
 
 # License 
